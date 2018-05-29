@@ -70,3 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to [Ero Carrera](https://github.com/erocarrera) for creating [pefile](https://github.com/erocarrera/pefile)
+* Hat tip to [Hexacorn](http://www.hexacorn.com/blog/) for writing a [blog](http://www.hexacorn.com/blog/2014/12/18/the-not-so-boring-land-of-borland-executables-part-2/) on alternative timestamps 
