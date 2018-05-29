@@ -87,7 +87,12 @@ def main():
         except:
             log.info("file {} may not have a compile time".format(hash))
 
-        start_time = time_list[sorted_time_list[item_num]]
+        while True:
+            if time_list[sorted_time_list[item_num]] > time.localtime(708992537):
+                start_time = time_list[sorted_time_list[item_num]]
+                break
+            item_num += 1
+
         end_time = time_list[sorted_time_list[-1]]
         log.info("Time range found from: {} to {}".format(print_time(start_time), print_time(end_time)))
 
