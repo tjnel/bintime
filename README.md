@@ -48,7 +48,6 @@ python bintime.py directory/ -t
 
 ## Usage Video
 
-The following is a youtube link explaining the to use this script.
 [https://youtu.be/IYYY5Y_YpRw](https://youtu.be/IYYY5Y_YpRw)
 
 ## Built With
