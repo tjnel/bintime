@@ -1,7 +1,7 @@
 # bintime
 
 ## Purpose
-The goal of this script is to use pefile and system utilities to extract all relevant timestamps for one or more pe binary samples. This will help an anlayst determine the probable lifespan of that sample.
+The goal of this script is to use pefile and system utilities to extract all relevant timestamps for one or more pe binary samples. This will help an analyst determine the probable lifespan of that sample.
 
 ## Installing
 
@@ -49,7 +49,7 @@ python bintime.py directory/ -t
 ## Usage Video
 
 The following is a youtube link explaining the to use this script.
-[]()
+[https://youtu.be/IYYY5Y_YpRw](https://youtu.be/IYYY5Y_YpRw)
 
 ## Built With
 
